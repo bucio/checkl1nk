@@ -1,7 +1,7 @@
 # checkl1nk
 
 
-![How Works](https://raw.githubusercontent.com/bucio/checkl1nk/blob/master/checklink_ss.png)
+![How Works](https://raw.githubusercontent.com/bucio/checkl1nk/master/checklink_ss.png)
 
 
 
