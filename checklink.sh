@@ -1,6 +1,5 @@
 #!/bin/bash
 #author: Rafael @Bucio
-#author: Rodolfo H Baz
 #Verificar Links
 #Prueba de concepto y automatización en shell
 #03 / Marzo / 2017
@@ -72,7 +71,6 @@ _  /    __  __ \  _ \  ___/_  //_/_  / __  /__  __ \_  //_/
 echo "                Ojo Donde das click! "
 echo "             Script de automatizacion "
 echo "          Por Rafael @Bucio - tpx Security "
-echo "                Rodolfo h. baz - cwhp       "
 echo "      "
 echo "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  "
 
